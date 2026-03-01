@@ -76,7 +76,7 @@ An interactive Excel dashboard developed to monitor business performance metrics
 - Created time-based sales analysis including hourly and daily order trends.
 - Visualized product performance using category-level sales distribution and top/bottom product rankings.
 - Designed business-friendly reporting layout for operational decision support.  
-![Excel Dashboard](/Screenshot 2026-03-02 024806.png)
+![Excel Dashboard](excel.png)
 ### Skills Demonstrated
 Excel Analytics • Business Reporting • Dashboard Development • KPI Tracking
 
