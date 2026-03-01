@@ -75,7 +75,8 @@ An interactive Excel dashboard developed to monitor business performance metrics
 - Tracked KPIs including total revenue, average order value, total pizzas sold, and order volume.
 - Created time-based sales analysis including hourly and daily order trends.
 - Visualized product performance using category-level sales distribution and top/bottom product rankings.
-- Designed business-friendly reporting layout for operational decision support.  
+- Designed business-friendly reporting layout for operational decision support.
+
 ![Excel Dashboard](excel.png)
 ### Skills Demonstrated
 Excel Analytics • Business Reporting • Dashboard Development • KPI Tracking
