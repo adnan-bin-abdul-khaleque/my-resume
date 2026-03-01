@@ -5,7 +5,7 @@ Welcome to my Data Analytics project portfolio. This repository showcases applie
 ---
 
 ## 🔬 Project 1: Energy Transition Forecasting  
-**Tools:** Python, Time-Series Modeling
+**Tools:** Python(pandas, NumPy, statsmodels, scikit-learn), Time-Series Modeling
 
 ### Overview
 This research-based analytics project applies time-series forecasting methods to support long-term energy transition planning. The study compares statistical forecasting techniques with AI-based models to predict energy demand trends.
@@ -28,17 +28,13 @@ Predictive Modeling • Time-Series Analysis • Research Analytics • Python
 ### Overview
 An interactive business intelligence dashboard designed to help stakeholders analyze sales performance and customer behavior.
 
-### Sales Dashboard
-- KPI overview: total sales, profit, quantity (current vs previous year)  
-- Monthly trend comparison across KPIs  
-- Product subcategory performance analysis  
-- Weekly sales and profit trends with average benchmarks  
-
-### Customer Dashboard
-- Customer KPIs: total customers, orders, sales per customer  
-- Monthly customer trend analysis  
-- Customer distribution by number of orders  
-- Top 10 customers ranked by profit  
+### Sales Dashboard & Customer Dashboard
+- Designed interactive sales and customer analytics dashboards to support executive decision-making.
+- Built KPI tracking for revenue, profit, quantity, and customer metrics with year-over-year comparisons.
+- Developed monthly and weekly trend analyses highlighting performance peaks, declines, and averages.
+- Implemented dynamic filtering by product category, subcategory, and geographic location.
+- Created customer behavior insights including purchase distribution and top-profit customer segmentation.
+- Enabled user-driven exploration through interactive charts and dashboard navigation.  
 
 ### Features
 - Dynamic year selection  
@@ -47,6 +43,7 @@ An interactive business intelligence dashboard designed to help stakeholders ana
 
 ### Skills Demonstrated
 Data Visualization • Business Intelligence • Dashboard Design • KPI Analysis
+[View Project](https://public.tableau.com/views/SalesCustomerDashboard_17724009711310/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -73,18 +70,13 @@ SQL • Data Cleaning • Exploratory Data Analysis • Data Transformation
 ### Overview
 An interactive Excel dashboard developed to monitor business performance metrics for a pizza shop.
 
-### KPIs
-- Total revenue  
-- Average order value  
-- Total pizzas sold  
-- Total orders  
-- Average pizzas per order  
-
-### Visual Insights
-- Daily and hourly order trends  
-- Sales distribution by category  
-- Top and bottom performing products  
-
+### Insights
+- Built an interactive Excel dashboard to monitor business performance metrics.
+- Tracked KPIs including total revenue, average order value, total pizzas sold, and order volume.
+- Created time-based sales analysis including hourly and daily order trends.
+- Visualized product performance using category-level sales distribution and top/bottom product rankings.
+- Designed business-friendly reporting layout for operational decision support.  
+![Excel Dashboard](/Screenshot 2026-03-02 024806.png)
 ### Skills Demonstrated
 Excel Analytics • Business Reporting • Dashboard Development • KPI Tracking
 
