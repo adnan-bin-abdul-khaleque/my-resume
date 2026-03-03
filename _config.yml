@@ -3,3 +3,7 @@ author: "Adnan Bin Abdul Khaleque"
 description: "Data Analyst specializing in SQL, Python, Tableau, and Excel. Transforming raw data into actionable insights for business growth and research."
 logo: me.png
 theme: jekyll-theme-minimal
+social_links:
+  github: "https://github.com/adnan-bin-abdul-khaleque" 
+  linkedin: "https://www.linkedin.com/in/adnan-bin-abdul-khaleque-7356a7334/" 
+  email: "adnan.abdulkhaleque@gmail.com"
