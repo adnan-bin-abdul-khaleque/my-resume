@@ -79,7 +79,7 @@ I provide tailored analytics solutions for businesses and individuals:
 ## 📬 Contact
 
 - 📱 Mobile/WhatsApp: +880-1837365608  
-- 💼 LinkedIn: [Adnan Bin Abdul Khaleque](www.linkedin.com/in/adnan-bin-abdul-khaleque-7356a7334)  
+- 💼 LinkedIn: [Adnan Bin Abdul Khaleque](https://www.linkedin.com/in/adnan-bin-abdul-khaleque-7356a7334/)  
 - 📧 Email: adnan.abdulkhaleque@gmail.com  
 - 📄 [Download My Resume](resume.pdf)
   
