@@ -1,7 +1,7 @@
 # 📊 Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio!  
-I specialize in turning raw data into actionable insights through **SQL, Python, Tableau, and Excel**.  
+I specialize in turning raw data into actionable insights through **SQL, Python, Power BI, Tableau, and Excel**.  
 This portfolio showcases projects that highlight my ability to clean, analyze, visualize, and forecast data for both academic research and business decision-making.
 
 ---
@@ -19,7 +19,7 @@ I combine technical expertise with analytical storytelling to transform complex 
 ## 🛠️ Skills
 
 - **Programming & Data Analysis:** Python (pandas, NumPy, scikit-learn, statsmodels), SQL  
-- **Visualization & BI Tools:** Tableau, Excel  
+- **Visualization & BI Tools:** Power BI, Tableau, Excel  
 - **Analytics Expertise:** Forecasting, KPI tracking, Data Cleaning, Business Intelligence  
 - **Soft Skills:** Clear communication, problem-solving, client-focused approach  
 
@@ -64,7 +64,7 @@ I combine technical expertise with analytical storytelling to transform complex 
 I provide tailored analytics solutions for businesses and individuals:
 
 - **Data Cleaning & Preparation** – Transform messy datasets into reliable formats  
-- **Dashboard Development (Tableau & Excel)** – Build interactive dashboards for KPI tracking and decision-making  
+- **Dashboard Development (Power BI, Tableau & Excel)** – Build interactive dashboards for KPI tracking and decision-making  
 - **Business Performance Analysis** – Identify growth opportunities and optimize operations  
 - **Forecasting & Predictive Modeling (Python)** – Anticipate future trends with statistical and ML techniques  
 - **Custom Analytics Solutions** – Tailored approaches to unique business problems  
@@ -81,7 +81,7 @@ I provide tailored analytics solutions for businesses and individuals:
 - 📱 Mobile/WhatsApp: +880-1837365608  
 - 💼 LinkedIn: [Adnan Bin Abdul Khaleque](https://www.linkedin.com/in/adnan-bin-abdul-khaleque-7356a7334/)  
 - 📧 Email: adnan.abdulkhaleque@gmail.com  
-- 📄 [Download My Resume](resume.pdf)
+- 📄 [Download My Resume](Adnan_CV.pdf)
   
 ---
 
